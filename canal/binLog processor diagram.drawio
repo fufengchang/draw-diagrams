@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T09:42:34.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="dU8PqTff3Of1OwI0UiFt" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T09:59:06.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NHkjW7tD8K6THX05TuPb" version="17.4.0" type="github">
   <diagram id="RKgJ4VKDAtB4tIxPlxn0" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,8 +301,8 @@
         <mxCell id="6EzRI4fCPDjEW_pRFf7N-148" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rounded=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;strokeColor=#006EAF;fillColor=#1ba1e2;" vertex="1" parent="1">
           <mxGeometry x="443.5" y="1830" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6EzRI4fCPDjEW_pRFf7N-149" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;3. 支持承载业务数据模型&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1880" width="150" height="20" as="geometry" />
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-149" value="&lt;div&gt;&lt;b&gt;3. 支持承载业务数据模型&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4. 支持不同业务场景字段改变订阅&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1900" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6EzRI4fCPDjEW_pRFf7N-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="6EzRI4fCPDjEW_pRFf7N-150" target="6EzRI4fCPDjEW_pRFf7N-119">
           <mxGeometry relative="1" as="geometry" />
@@ -322,8 +322,8 @@
             <mxPoint x="431" y="2760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6EzRI4fCPDjEW_pRFf7N-157" value="MemberBaseInfoModel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="201" y="2730" width="140" height="20" as="geometry" />
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-157" value="CanalBinLogResult" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="211" y="2730" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6EzRI4fCPDjEW_pRFf7N-158" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="421" y="2652" width="162.5" height="448" as="geometry" />
@@ -358,8 +358,8 @@
             <mxPoint x="663.5" y="2760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6EzRI4fCPDjEW_pRFf7N-168" value="MemberObjectInfoModel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="428.5" y="2730" width="150" height="20" as="geometry" />
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-168" value="CanalBinLogResult" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="443.5" y="2730" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6EzRI4fCPDjEW_pRFf7N-169" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="653" y="2652" width="162.5" height="448" as="geometry" />
@@ -394,8 +394,35 @@
             <mxPoint x="895.5" y="2760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6EzRI4fCPDjEW_pRFf7N-179" value="MemberPhotoModel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-179" value="CanalBinLogResult" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="675.5" y="2730" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-184" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="970" y="2670" width="30" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-185" value="&lt;b&gt;CanalBinLogResult&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="845" y="2790" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-186" value="beforeData&amp;nbsp; &amp;nbsp; //&amp;nbsp;更变前的数据对象" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="997.5" y="2690" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-187" value="afterData&amp;nbsp; &amp;nbsp; //&amp;nbsp;更变后的数据对象" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="2720" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-188" value="databaseName // 数据库名称" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1002.5" y="2750" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-189" value="tableName // 表名称" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1002.5" y="2790" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-190" value="binLogEventType // 事件类型(INSERT, UPDATE, DELETE)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1002.5" y="2825" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-191" value="operationType // 操作类型(DML,DDL)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1002.5" y="2865" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-192" value="events // 订阅变动点" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1002.5" y="2900" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
