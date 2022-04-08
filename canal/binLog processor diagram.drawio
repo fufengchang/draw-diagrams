@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T03:54:22.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="TGEFgn3kmCewpE-LbSHO" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T03:59:59.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FkgtwRFyCkDdoeXdZ5UQ" version="17.4.0" type="github">
   <diagram id="RKgJ4VKDAtB4tIxPlxn0" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -816,6 +816,12 @@
         </mxCell>
         <mxCell id="6EzRI4fCPDjEW_pRFf7N-337" value="&lt;b&gt;同一消费组(顺序消费组)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="5670" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-339" value="可以通过调整Queue的数量，控制并发度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="947.5" y="5290" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6EzRI4fCPDjEW_pRFf7N-341" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;rounded=1;fontFamily=Helvetica;fontSize=12;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;rotation=-30;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="898" y="5340" width="92" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
