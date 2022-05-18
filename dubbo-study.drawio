@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T03:55:25.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="17.4.4" etag="Ri2Gw-TlypjFL57CkgGM" type="github"><diagram id="vuQ6-RvNP1zG2d287qLm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-18T04:00:18.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="xwdh_1_gn5Lu5sSKOr9d" version="17.4.4" type="github">
+  <diagram id="vuQ6-RvNP1zG2d287qLm" name="第 1 页">
+    <mxGraphModel dx="2489" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qnpzQLHbOfzU6YIfCBS_-1" value="Spring Context" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="185" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="qnpzQLHbOfzU6YIfCBS_-2" value="ReferenceAnnotationBeanPostProcessor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="175" width="230" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qnpzQLHbOfzU6YIfCBS_-3" value="ServiceBean" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="177.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qnpzQLHbOfzU6YIfCBS_-4" value="ServiceConfig" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="175" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
